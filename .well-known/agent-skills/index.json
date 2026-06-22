@@ -1,0 +1,12 @@
+{
+  "$schema": "https://schemas.agentskills.io/discovery/0.2.0/schema.json",
+  "skills": [
+    {
+      "name": "xxxx",
+      "type": "skill-md",
+      "description": "xxxx —— 由 CruiseSkillBridge 一键发布的MCP。",
+      "url": "https://raw.githubusercontent.com/309441738/xxxx-hermes-skill/main/skills/xxxx/SKILL.md",
+      "digest": "sha256:5a2e6796d1641fa8a9d3d6998da5f3346baf22ab0a6e78bc18f8b807cc6a5053"
+    }
+  ]
+}
